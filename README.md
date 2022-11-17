@@ -1,4 +1,4 @@
 # Learn
--for learn git 
--test line readme
+- for learn git 
+- test line readme
 ### Learn
