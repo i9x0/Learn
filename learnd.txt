@@ -1,0 +1,14 @@
+git status 
+حالة الملفات التي لم ترفع والتي رفعت 
+git add 
+اضافة الملفات في (staging area) وهنا باقي (add commit)
+للاانتقال الى (local repo) ومن ثم (git push) للانتقال الى (remote repo )
+'' git commit -m
+داخل النقاط نكتب التعليقات الي نرسلها مع التطبيق مثل من سواها و وش عدلت 
+git push origin main
+ننقلها الى remote repo 
+
+
+لحضف ملف من (staging area ) استخدم (git reset head namefile)
+-------------------------------------------------------------
+
