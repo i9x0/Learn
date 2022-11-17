@@ -11,4 +11,4 @@ git push origin main
 
 لحضف ملف من (staging area ) استخدم (git reset head namefile)
 -------------------------------------------------------------
-
+from abuabd
